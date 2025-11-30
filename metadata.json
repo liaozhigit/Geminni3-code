@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI 虚拟试衣间",
+  "description": "基于 Nano Banana (Gemini 2.5 Flash Image) 的智能换装应用，支持自定义人像与服饰生成。",
+  "requestFramePermissions": []
+}
